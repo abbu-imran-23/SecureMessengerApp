@@ -20,7 +20,7 @@ class MainActivity : AppCompatActivity() {
             val intent = Intent(this,Login::class.java)
             finish()
             startActivity(intent)
-        },2010)
+        },2000)
 
     }
 }
